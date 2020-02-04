@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/haoke-center-ad/pom.xml" />
+        <option value="$PROJECT_DIR$/haoke-center-houseResources/pom.xml" />
+        <option value="$PROJECT_DIR$/haoke-center-houseResources/haoke-center-houseResourcesapi/pom.xml" />
+        <option value="$PROJECT_DIR$/haoke-center-houseResources/haoke-center-houseResourcesbiz/pom.xml" />
+        <option value="$PROJECT_DIR$/haoke-center-houseResources/haoke-center-houseResourcesdao/pom.xml" />
+        <option value="$PROJECT_DIR$/haoke-center-houseResources/haoke-center-houseResourcesservice/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

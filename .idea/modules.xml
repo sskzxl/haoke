@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/haoke.iml" filepath="$PROJECT_DIR$/.idea/haoke.iml" />
+      <module fileurl="file://$PROJECT_DIR$/haoke-center-ad/haoke-center-ad.iml" filepath="$PROJECT_DIR$/haoke-center-ad/haoke-center-ad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/haoke-center-houseResources/haoke-center-houseResources.iml" filepath="$PROJECT_DIR$/haoke-center-houseResources/haoke-center-houseResources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/haoke-center-houseResources/haoke-center-houseResourcesapi/haoke-center-houseResourcesapi.iml" filepath="$PROJECT_DIR$/haoke-center-houseResources/haoke-center-houseResourcesapi/haoke-center-houseResourcesapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/haoke-center-houseResources/haoke-center-houseResourcesbiz/haoke-center-houseResourcesbiz.iml" filepath="$PROJECT_DIR$/haoke-center-houseResources/haoke-center-houseResourcesbiz/haoke-center-houseResourcesbiz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/haoke-center-houseResources/haoke-center-houseResourcesdao/haoke-center-houseResourcesdao.iml" filepath="$PROJECT_DIR$/haoke-center-houseResources/haoke-center-houseResourcesdao/haoke-center-houseResourcesdao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/haoke-center-houseResources/haoke-center-houseResourcesservice/haoke-center-houseResourcesservice.iml" filepath="$PROJECT_DIR$/haoke-center-houseResources/haoke-center-houseResourcesservice/haoke-center-houseResourcesservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/haoke-common/haoke-common.iml" filepath="$PROJECT_DIR$/haoke-common/haoke-common.iml" />
+    </modules>
+  </component>
+</project>

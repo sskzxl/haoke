@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="haoke-center-houseResourcesservice:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/haoke_center_houseResourcesservice_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="haoke-center-houseResourcesservice/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="haoke-center-houseResourcesservice" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

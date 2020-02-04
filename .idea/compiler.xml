@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="haoke-center-houseResourcesapi" />
+        <module name="haoke-center-houseResourcesbiz" />
+        <module name="haoke-center-houseResourcesdao" />
+        <module name="haoke-common" />
+        <module name="haoke-manage-dubbo-server-house-resources-dubbo-service" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="haoke" target="1.8" />
+      <module name="haoke-center-ad" target="1.8" />
+      <module name="haoke-center-houseResources" target="1.8" />
+      <module name="haoke-center-houseResourcesapi" target="1.8" />
+      <module name="haoke-center-houseResourcesbiz" target="1.8" />
+      <module name="haoke-center-houseResourcesdao" target="1.8" />
+      <module name="haoke-center-houseResourcesservice" target="1.8" />
+      <module name="haoke-common" target="1.8" />
+      <module name="haoke-manage-dubbo-server-ad" target="1.8" />
+      <module name="haoke-manage-dubbo-server-house-resources" target="1.8" />
+      <module name="haoke-manage-dubbo-server-house-resources-dubbo-service" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
